@@ -36,6 +36,6 @@ This is a console-based, multi-threaded C++ simulation of a construction site wh
 - Interactive terminal menu
 
 ## 📸 Sample Output
-[Weather Update] The current weather is: Clear. Work can proceed.\n
-[Task Assignment] Task 'WallBuild' is now fully assigned and completed!
-[Resource Return] Workers have returned their resources...
+- [Weather Update] The current weather is: Clear. Work can proceed.
+- [Task Assignment] Task 'WallBuild' is now fully assigned and completed!
+- [Resource Return] Workers have returned their resources...
